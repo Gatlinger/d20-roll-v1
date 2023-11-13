@@ -1,0 +1,15 @@
+.default {
+    font-family: "Book Antiqua";
+}
+
+.number {
+    background-color: yellow;
+}
+
+.one  {
+    background-color: red  ;
+}
+
+.tweny {
+    background-color: greenyellow;
+}
