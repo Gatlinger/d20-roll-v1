@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/d20-roll-v1/static/css/main.18799f10.css",
-    "main.js": "/d20-roll-v1/static/js/main.d43170e6.js",
+    "main.css": "/d20-roll-v1/static/css/main.2fd5fd6f.css",
+    "main.js": "/d20-roll-v1/static/js/main.4db21ac3.js",
     "static/js/787.975edbd5.chunk.js": "/d20-roll-v1/static/js/787.975edbd5.chunk.js",
     "index.html": "/d20-roll-v1/index.html",
-    "main.18799f10.css.map": "/d20-roll-v1/static/css/main.18799f10.css.map",
-    "main.d43170e6.js.map": "/d20-roll-v1/static/js/main.d43170e6.js.map",
+    "main.2fd5fd6f.css.map": "/d20-roll-v1/static/css/main.2fd5fd6f.css.map",
+    "main.4db21ac3.js.map": "/d20-roll-v1/static/js/main.4db21ac3.js.map",
     "787.975edbd5.chunk.js.map": "/d20-roll-v1/static/js/787.975edbd5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.18799f10.css",
-    "static/js/main.d43170e6.js"
+    "static/css/main.2fd5fd6f.css",
+    "static/js/main.4db21ac3.js"
   ]
 }
